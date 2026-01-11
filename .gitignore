@@ -1,0 +1,31 @@
+# Compiled binary
+keycast
+
+# Object files
+*.o
+
+# Generated protocol files
+wlr-layer-shell-protocol.c
+wlr-layer-shell-protocol.h
+xdg-shell-protocol.c
+xdg-shell-protocol.h
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+core
+vgcore.*
